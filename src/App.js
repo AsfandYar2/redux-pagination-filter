@@ -15,7 +15,7 @@ function App() {
     <Provider store={store}>
       <div className="App">
         <Alert />
-        {/* <Search /> */}
+        <Search />
         <Job />
       </div>
     </Provider>
